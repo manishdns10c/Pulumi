@@ -1,0 +1,4 @@
+encryptionsalt: v1:Rpyg3YI5Vt4=:v1:rpO7I+RS+XSmfFJE:iKtbhR+ouQPJ75mwwaWENBujm78oYg==
+config:
+  aws:region: eu-central-1
+  aws:profile: playground
